@@ -1,0 +1,8 @@
+{
+    "name": "test",
+    "description": "For the coomers and degenerates",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/plugins.json"
+    ]
+}
